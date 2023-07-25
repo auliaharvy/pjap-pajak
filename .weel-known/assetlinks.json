@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pjap.pajak",
+      "sha256_cert_fingerprints":
+        ["14:D2:11:26:4E:EE:3A:34:05:D3:38:49:35:EC:C0:5A:A6:C0:87:F8:37:06:9F:86:F2:97:AA:C0:78:B4:09:75"]
+    }
+  }
+]
